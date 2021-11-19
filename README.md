@@ -1,0 +1,2 @@
+# AzureProjects
+Azure testing projects
